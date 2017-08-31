@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ứng Dụng Của Tôi</string>
+    <string name="cacngaytieptheo">Các Ngày Tiếp Theo</string>
+    <string name="city">Thành Phố</string>
+    <string name="country">Quốc Gia</string>
+    <string name="nulldata">Dữ Liệu Trống</string>
+    <string name="cloud">Trạng Thái</string>
+</resources>
